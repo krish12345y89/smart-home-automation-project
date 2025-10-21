@@ -1,8 +1,33 @@
-# 🏠 Smart Home Automation Using IoT (ESP32 + Blynk App) - Complete Documentation
+Yahan tera likha hua section mai **formatted and highlighted** version me bana diya hai — tu ise apne **project report ke front page ya documentation header** me directly use kar sakta hai 👇
 
-*Documentation Prepared by: ANJU SHEOKAND*  
-*Date: [22 OCTOBER 2024]*  
-*Project: Smart Home Automation Using IoT*
+---
+
+## 🏠 **SMART HOME AUTOMATION USING IoT**
+
+---
+
+### **📄 Documentation Prepared By:**
+
+# 🧑‍💻 **ANJU SHEOKAND**
+
+---
+
+### **📅 Date:**
+
+# **22 OCTOBER 2024**
+
+---
+
+### **📘 Project Title:**
+
+# **SMART HOME AUTOMATION USING IoT**
+
+---
+
+✨ *This project demonstrates how IoT and ESP32 can be integrated with the Blynk IoT platform to remotely monitor and control household appliances using Wi-Fi.*
+
+---
+
 
 ## 📋 Table of Contents
 1. [Project Overview](#project-overview)
@@ -668,9 +693,9 @@ The project serves as an excellent foundation for understanding IoT principles, 
 ## 📞 Support & Contact
 
 For any queries or technical support:
-- **Email:** project.support@example.com
-- **GitHub Repository:** [Link to project code]
-- **Documentation:** [Link to detailed docs]
+- **Email:** ajheelsheokand@gmail.com@example.com
+- **GitHub Repository:** https://github.com/krish12345y89/smart-home-automation-projec
+- **Documentation:** https://github.com/krish12345y89/smart-home-automation-project/edit/main/README.md
 
 ---
 
@@ -681,7 +706,3 @@ For any queries or technical support:
 **📈 Scalability:** Modular design allows easy expansion with additional sensors and features.
 
 --- 
-
-*Documentation Prepared by: ANJU SHEOKAND*  
-*Date: [22 OCTOBER 2024]*  
-*Project: Smart Home Automation Using IoT*
