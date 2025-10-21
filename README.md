@@ -1,15 +1,8 @@
-Yahan tera likha hua section mai **formatted and highlighted** version me bana diya hai — tu ise apne **project report ke front page ya documentation header** me directly use kar sakta hai 👇
-
----
-
 ## 🏠 **SMART HOME AUTOMATION USING IoT**
-
 ---
-
 ### **📄 Documentation Prepared By:**
 
 # 🧑‍💻 **ANJU SHEOKAND**
-
 ---
 
 ### **📅 Date:**
